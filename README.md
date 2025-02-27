@@ -7,3 +7,9 @@ A simple to-do list application.
 3. Build the Docker image: `docker build -t todo-app --no-cache .`
 4. Run the app: `docker run -p 5000:5000 todo-app`
 5. Visit `localhost:5000` in your browser.
+
+ Task have done
+ pip install flask
+  docker run -d -p 80:80 docker/getting-started
+  docker ps
+  docker ps --no-trunc 
